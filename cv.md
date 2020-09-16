@@ -13,7 +13,7 @@
 
 ## Object
 
-I want to work as a front-end developer. 
+I want to work a front-end developer. 
 In the future, become popular in the specialty. 
 I graduated from Samara state aerospace University in 2016 year.
 Three years of experience in the aviation industry.
