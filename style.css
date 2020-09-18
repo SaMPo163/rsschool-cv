@@ -1,0 +1,151 @@
+html {
+    font-size: 15px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+body {
+    display: block;
+    max-width: 100%;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(179, 179, 179);
+    padding-top: 50px;    
+}
+
+.container {
+    display: block;
+    position: relative;
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    background-color: #fff;
+    box-shadow: 20px -15px 10px 5px rgba(0, 0, 0, 0.3);    
+}
+
+.avatar {
+    display: block;
+    width: 100%;
+    height: 300px;    
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.img__avatar {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid rgb(23, 139, 124);
+    margin-top: 50px;
+}
+
+.user {
+    position: relative;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.user__name {
+    font-size: 1.2em;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 2px solid #000;
+}
+
+.user__info {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px; 
+}
+
+.mail-link {
+    text-decoration: none;
+    color: #000;
+}
+
+.object {
+    position: relative;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.object__title {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 2px solid #000;
+}
+
+.object__info {
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px; 
+}
+
+.skils {
+    position: relative;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.skils__title {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 2px solid #000;
+}
+
+.skils__info {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+
+    padding-left: 80px;
+    margin-bottom: 0;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.skils__info>* {
+    flex: 1 1 120px;
+}
+
+
+.self-education {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.self-education__title {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 2px solid #000;
+}
+
+.self-education__info {
+    display: flex;
+    flex-wrap: wrap;
+
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-bottom: 0;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.self-education__info>* {
+    flex: 1 1 150px;
+}
