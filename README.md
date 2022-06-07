@@ -1,1 +1,1 @@
-# [Alexey Snisarenko-cv](https://SaMPo163.github.io/rsschool-cv/cv)
+# [Alexey Snisarenko](https://SaMPo163.github.io/rsschool-cv/cv)
