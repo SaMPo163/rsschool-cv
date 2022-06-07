@@ -7,7 +7,7 @@
 * **Telegram:** @alexeysnisarenko
 
 ## About me
-I am 23 years old, I am a technical writer. I'm interested in learning new things. The experience of using javascript will help me develop my skills.
+I am 28 years old, I am a technical writer. I'm interested in learning new things. The experience of using javascript will help me develop my skills.
 In the future, develop in front-end development as a developer. 
 I believe that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
